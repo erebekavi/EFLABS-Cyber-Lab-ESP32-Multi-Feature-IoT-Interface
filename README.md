@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="photos/PHOTO1 (1).jpeg" alt="EFLABS Cyber Lab Hardware" width="420">
+  <img src="photos/PHOTO1 (3).jpeg" alt="EFLABS Cyber Lab Hardware" width="420">
 </p>
 
 ---
@@ -202,14 +202,21 @@ Connect the ESP32 through USB, select the correct board and COM port, and upload
 ### Hardware Prototype
 
 <p align="center">
-  <img src="docs/photos/PHOTO1%20(1).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
+  <img src="photos/PHOTO1 (1).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
 </p>
 <p align="center">
-  <img src="docs/photos/PHOTO1%20(2).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
+  <img src="photos/PHOTO1 (2).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
 </p>
 <p align="center">
-  <img src="docs/photos/PHOTO1%20(3).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
+  <img src="photos/PHOTO1 (3).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
 </p>
+<p align="center">
+  <img src="photos/PHOTO1 (4).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
+</p>
+<p align="center">
+  <img src="photos/PHOTO1 (5).jpeg" alt="EFLABS Cyber Lab hardware prototype" width="500">
+</p>
+
 ### Prototype Features
 
 The physical prototype includes:
