@@ -152,8 +152,8 @@ Button handling includes software debouncing to reduce unintended multiple input
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/eflabs-esp32-cyber-lab.git
-cd eflabs-esp32-cyber-lab
+git clone git@github.com:erebekavi/EFLABS-Cyber-Lab-ESP32-Multi-Feature-IoT-Interface.git
+cd EFLABS-Cyber-Lab-ESP32-Multi-Feature-IoT-Interface
 ```
 
 ### 2. Install Required Libraries
@@ -179,7 +179,7 @@ In Arduino IDE:
 Open:
 
 ```text
-ESP32-Multi-Feature-IoT-Interface.ino
+EFLABS_Portable_Cyber_Lab.ino
 ```
 
 ### 5. Configure the Hardware
@@ -228,8 +228,6 @@ The physical prototype includes:
 - Charging module
 - Custom perfboard wiring
 - EFLABS Cyber Lab branding
-
-> Add additional project photographs to `docs/photos/` and reference them here using their exact filenames.
 
 ---
 
