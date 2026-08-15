@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/photos/PHOTO1%20(3).jpeg" alt="EFLABS Cyber Lab Hardware" width="420">
+  <img src="photos/PHOTO1 (1).jpeg" alt="EFLABS Cyber Lab Hardware" width="420">
 </p>
 
 ---
